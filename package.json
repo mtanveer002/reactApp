@@ -1,0 +1,24 @@
+{
+  "name": "react_app",
+  "version": "1.0.0",
+  "description": "this is node test with react",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite" ,
+    "test": "echo \"Error: no test specified\" && exit 1" ,
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtanveer002/reactApp.git"
+  },
+  "author": "M Tanveer Sajid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtanveer002/reactApp/issues"
+  },
+  "homepage": "https://github.com/mtanveer002/reactApp#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
